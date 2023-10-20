@@ -1,0 +1,10 @@
+.pricing-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pricing-card {
+    width: 200px;
+    height: 200px;
+}
